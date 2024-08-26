@@ -31,6 +31,8 @@ Spendify operates through a series of steps:
 4. **User Uses Recommended Card**: The user makes the purchase using the recommended card.
 5. **Save Money**: The user benefits from the best rewards, cashback, or other offers available.
 
+![Pipeline Overview](images/pipeline.png)
+
 ## Installation
 
 To run Spendify locally, follow these steps:
