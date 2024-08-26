@@ -4,6 +4,9 @@
 
 **Spendify** is a smart shopping assistant that helps users maximize their savings by recommending the best credit card for each purchase. The project leverages AI to ensure users make informed decisions and benefit from the best available offers and rewards.
 
+**[Check out the full presentation here](https://docs.google.com/presentation/d/1pG5DHT_B81xjnGnlfbMNagZcRdrHIjZ3/edit#slide=id.p12)
+
+
 ## Problem Statement
 
 Consumers often struggle to keep track of the best credit card offers, rewards, and benefits. They miss out on savings and special offers because they don't have a tool to assist them in selecting the best credit card for each purchase.
