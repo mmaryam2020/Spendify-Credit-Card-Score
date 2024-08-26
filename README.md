@@ -82,5 +82,5 @@ You can automate the startup process using a script:
    ```
    This will start both the backend and frontend servers.
 
-## Team **Maryam**, **Rohit** , **Reza**, **Guna**: 
-
+### Team
+- Maryam,Rohit, Reza, Guna
