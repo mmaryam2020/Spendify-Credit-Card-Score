@@ -1,0 +1,48 @@
+{
+  "cashbackCategories": [
+    {
+      "categoryName": "Groceries",
+      "rate": "2%",
+      "limit": "$80,000 in net annual card purchases",
+      "duration": "",
+      "conditions": "Earn 2% cash back on purchases at grocery stores and supermarkets"
+    },
+    {
+      "categoryName": "Gas/EV charging",
+      "rate": "1%",
+      "limit": "$80,000 in net annual card purchases",
+      "duration": "",
+      "conditions": "Earn 1% cash back on gas service stations, automated fuel dispensers, and electric vehicle charging"
+    },
+    {
+      "categoryName": "Transportation",
+      "rate": "1%",
+      "limit": "$80,000 in net annual card purchases",
+      "duration": "",
+      "conditions": "Earn 1% cash back on local and suburban commuter transportation"
+    },
+    {
+      "categoryName": "Dining",
+      "rate": "1%",
+      "limit": "$80,000 in net annual card purchases",
+      "duration": "",
+      "conditions": "Earn 1% cash back on eating places, restaurants, and fast food restaurants"
+    },
+    {
+      "categoryName": "Recurring payments",
+      "rate": "0.5%",
+      "limit": "$80,000 in net annual card purchases",
+      "duration": "",
+      "conditions": "Earn 0.5% cash back on recurring payments pre-authorized with a merchant"
+    },
+    {
+      "categoryName": "Other purchases",
+      "rate": "0.5%",
+      "limit": "$80,000 in net annual card purchases",
+      "duration": "",
+      "conditions": "Earn 0.5% cash back on all other purchases"
+    }
+  ],
+  "welcomeOffer": "",
+  "additionalNotes": ""
+}

@@ -1,0 +1,27 @@
+{
+  "cashbackCategories": [
+    {
+      "categoryName": "Groceries",
+      "rate": "3%",
+      "limit": "$500 per statement cycle period",
+      "duration": "",
+      "conditions": "Bonus Rewards for purchases at merchant locations in Canada classified as grocery stores"
+    },
+    {
+      "categoryName": "Recurring payments",
+      "rate": "1%",
+      "limit": "$500 per statement cycle period",
+      "duration": "",
+      "conditions": "Bonus Rewards for recurring bill payments made at merchant locations in Canada"
+    },
+    {
+      "categoryName": "Other purchases",
+      "rate": "0.5%",
+      "limit": "",
+      "duration": "",
+      "conditions": ""
+    }
+  ],
+  "welcomeOffer": "",
+  "additionalNotes": ""
+}

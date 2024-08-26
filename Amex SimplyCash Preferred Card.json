@@ -1,0 +1,27 @@
+{
+    "cashbackCategories": [
+        {
+            "categoryName": "Groceries",
+            "rate": "4%",
+            "limit": "Up to $6,000",
+            "duration": "Annual",
+            "conditions": ""
+        },
+        {
+            "categoryName": "Other purchases",
+            "rate": "2%",
+            "limit": "None",
+            "duration": "Annual",
+            "conditions": ""
+        },
+        {
+            "categoryName": "Gas/EV charging",
+            "rate": "4%",
+            "limit": "None",
+            "duration": "Per transaction",
+            "conditions": "Link RBC Cash Back Mastercard to Petro-Points card"
+        }
+    ],
+    "welcomeOffer": "In your first 10 months as a new SimplyCash®  Preferred Card from American Express Cardmember, you can earn a $40 statement credit for each monthly billing period in which you spend $750 in purchases on your Card. This could add up to $400 in statement credits in the first 10 months.",
+    "additionalNotes": ""
+}

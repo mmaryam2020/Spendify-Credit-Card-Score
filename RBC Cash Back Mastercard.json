@@ -1,0 +1,41 @@
+{
+  "cashbackCategories": [
+    {
+      "categoryName": "Groceries",
+      "rate": "2%",
+      "limit": "Up to $6,000",
+      "duration": "Annual",
+      "conditions": "1% cash back on purchases over $6,000"
+    },
+    {
+      "categoryName": "Other purchases",
+      "rate": "Up to 1%",
+      "limit": "None",
+      "duration": "Annual",
+      "conditions": ""
+    },
+    {
+      "categoryName": "Gas/EV charging",
+      "rate": "3 cents per litre",
+      "limit": "None",
+      "duration": "Per transaction",
+      "conditions": "Link RBC Cash Back Mastercard to Petro-Points card"
+    },
+    {
+      "categoryName": "Dining",
+      "rate": "Varies",
+      "limit": "None",
+      "duration": "Varies",
+      "conditions": "Complimentary DashPass subscription from DoorDash"
+    },
+    {
+      "categoryName": "Recurring payments",
+      "rate": "Varies",
+      "limit": "None",
+      "duration": "Varies",
+      "conditions": "Earn cash back faster with pre-authorized payments"
+    }
+  ],
+  "welcomeOffer": "50 Be Well points for every $1 spent at Rexall with linked RBC card",
+  "additionalNotes": "Cash back balance over $25 can be credited at any time. Purchase Security and Extended Warranty Insurance included. Zero Liability protection. Chip & PIN technology for security. Mastercard Tap and Go feature for quick payments."
+}

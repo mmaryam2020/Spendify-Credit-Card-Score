@@ -1,0 +1,219 @@
+category,name
+Groceries,No Frills
+Groceries,Real Canadian Superstore
+Groceries,Metro
+Groceries,Food Basics
+Groceries,Maxi
+Groceries,Sobeys
+Groceries,Super C
+Groceries,FreshCo
+Groceries,Zehrs
+Groceries,Safeway
+Groceries,Foodland
+Groceries,Marche
+Groceries,Loblaws
+Groceries,Save-On-Foods
+Groceries,Provigo
+Groceries,YIG
+Groceries,Fortinos
+Groceries,Supermarche
+Groceries,Valu-mart
+Groceries,Atlantic Superstore
+Groceries,Longos
+Groceries,T&T
+Groceries,Alimentation
+Groceries,Farm Boy
+Groceries,Cash & Carry
+Groceries,Dominion
+Groceries,Thrifty Foods
+Groceries,Calgary Co-op
+Groceries,Extra Foods
+Groceries,Whole Foods
+Groceries,Rabba
+Groceries,A&P
+Groceries,Moncion Grocers
+Groceries,Asian Food Center
+Groceries,Nester's Market
+Groceries,Askew's Foods
+Groceries,Overwaitea Food
+Groceries,Atlantic Wholesalers
+Groceries,Pete's Frootique
+Groceries,Bidgoods
+Groceries,Planet Organic
+Groceries,Bruno's Fine Foods
+Groceries,Powell's Supermarket
+Groceries,Grocery Gateway
+Groceries,your Independent Grocers
+Other Purchases,Costco
+Other Purchases,Real Canadian Wholesale Club
+Other Purchases,Chatters Salon
+Other Purchases,Supercuts
+Other Purchases,First Choice Haircutters
+Other Purchases,The Spa at Nita Lake Lodge
+Other Purchases,Willow Stream Spa
+Other Purchases,Milcroft Inn & Spa
+Other Purchases,Melonheads
+Other Purchases,Pure Simple Spa
+Other Purchases,Spa Balnea
+Other Purchases,Venere Salon
+Other Purchases,Quartz Crystal Spa
+Other Purchases,St. Anne's Spa
+Other Purchases,Donato Salon & Spa
+Other Purchases,Pure Spa
+Other Purchases,Shoppers Drug Mart
+Other Purchases,Pharma Plus Drugmarts
+Other Purchases,Pharmx Rexall Drug
+Other Purchases,Uniprix
+Other Purchases,Familiprix
+Other Purchases,well.ca Inc
+Other Purchases,Pharmacie Brunet
+Other Purchases,Proxim
+Other Purchases,Total Health Pharmacy
+Other Purchases,Main Drug Mart
+Other Purchases,London Drugs
+Other Purchases,Dell Pharmacy
+Other Purchases,Queensway Veterinary Hospital
+Other Purchases,Allandale Veterinary Hospital
+Other Purchases,Dunnville Veterinary Clinic
+Other Purchases,Main West Animal Hospital
+Other Purchases,Pembroke Animal Hospital
+Other Purchases,Northwestern Veterinary
+Other Purchases,Clinique Veterinaire
+Other Purchases,Hopital Veterinaire
+Other Purchases,Amazon
+Other Purchases,Chapters
+Other Purchases,Indigo
+Other Purchases,Coles
+Other Purchases,Renaud-Bray
+Other Purchases,Scholastic
+Other Purchases,Holiday Inn
+Other Purchases,Best Western
+Other Purchases,Sheraton
+Other Purchases,Marriott
+Other Purchases,Days Inn
+Other Purchases,Westin
+Other Purchases,Hilton
+Other Purchases,DoubleTree
+Other Purchases,Embassy Suites
+Other Purchases,Crowne Plaza
+Other Purchases,Cabot Links
+Other Purchases,Eagle's Nest Golf Club
+Other Purchases,Predator Ridge Golf Course
+Other Purchases,Greywolf Gold Course
+Other Purchases,Highlands Links
+Other Purchases,The Links at Crowbush Cove
+Other Purchases,Humber Valley Golf Course
+Other Purchases,Dundarave Golf Course
+Other Purchases,Fairmont Jasper Park Lodge Golf Course
+Other Purchases,Dakota Dunes Golf Links
+Other Purchases,Le Geant Golf Course
+Other Purchases,Fairmont Banff Springs Golf Course
+Other Purchases,Le Maitre de Mont Tremblant
+Other Purchases,Muskoka Bay Club Golf Course
+Other Purchases,Canada's Wonderland
+Other Purchases,steamgames.com
+Other Purchases,Ticketmaster
+Other Purchases,Ticketfly Events
+Other Purchases,Ripleys Aquarium
+Other Purchases,"Stubhub, Inc."
+Other Purchases,Superclub Videotron #1
+Other Purchases,La Ronde
+Other Purchases,origin.com
+Other Purchases,Ticket King
+Other Purchases,Cdn intl Auto Show
+Other Purchases,Toronto Zoo
+Other Purchases,CN Tower Ticketing
+Other Purchases,Zoo de Granby
+Other Purchases,Bora Parc Valcartier
+Other Purchases,Budweiser Gardens
+Other Purchases,lepointdevente.com
+Other Purchases,Cineplex Cinemas
+Dining,Boston Pizza
+Dining,Swiss Chalet
+Dining,The Keg
+Dining,Mandarin
+Dining,Rotisserie St. Hubert
+Dining,Montana's
+Dining,Red Lobster
+Dining,East Side Mario's
+Dining,Kelsey's
+Dining,Jack Astor's
+Dining,Moxie's
+Dining,Baton Rouge
+Dining,Cora
+Dining,Milestones
+Dining,Normandin
+Dining,Crabby Joe's
+Dining,Lone Star
+Dining,Smitty's
+Dining,Shoeless Joe's
+Dining,Applebee's
+Dining,St. Louis
+Dining,Fionn MacCool's
+Dining,Tony Roma's
+Dining,Pizza Delight
+Dining,Ricky's All Day Grill
+Dining,Sunset Grill
+Dining,Casey's
+Dining,Canyon Creek
+Dining,Mr. Mikes
+Dining,Fox & Fiddle
+Dining,Tim Hortons
+Dining,McDonalds
+Dining,Subway
+Dining,A&W
+Dining,KFC
+Dining,Wendy's
+Dining,Dairy Queen
+Dining,Pizza Hut
+Dining,Pizza Pizza
+Dining,Starbucks
+Dining,Domino's Pizza
+Dining,Harvey's
+Dining,Burger King
+Dining,Little Caesars Pizza
+Dining,Pizza Nova
+Dining,Popeyes
+Dining,Thai Express
+Dining,Booster Juice
+Dining,Mr. Sub
+Dining,Quiznos
+Dining,Taco Bell
+Dining,Second Cup
+Dining,Edo Japan
+Dining,Manchu WOK
+Dining,Jimmy The Greek
+Dining,Extreme Pita
+Dining,Teriyaki Experience
+Dining,New York Fries
+Dining,Hero Certified Burger
+Dining,Mr. Greek
+Dining,Country Style
+Transportation,United Airlines
+Transportation,American Airlines
+Transportation,British Airways
+Transportation,Air Canada
+Transportation,Royal Dutch Airlines (KLM)
+Transportation,Delta Airlines
+Transportation,Southwest Airlines
+Transportation,WestJet Airlines
+Transportation,Porter Airlines
+Transportation,Flight Centre
+Transportation,Air Transat
+Transportation,Booking.com
+Transportation,Expedia
+Transportation,Hotels.com
+Transportation,Travelocity
+Transportation,Via Rail
+Transportation,Amtrak
+Transportation,Royal Caribbean International
+Transportation,Carnival Cruise Lines
+Transportation,Holland America Line
+Transportation,Greyhound
+Transportation,FlixBus
+Transportation,Hertz
+Transportation,Budget
+Transportation,Avis
+Gas/EV charging,Husky
+Gas/EV charging,Esso
+Gas/EV charging,Shell
