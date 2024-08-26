@@ -13,7 +13,7 @@ Consumers often struggle to keep track of the best credit card offers, rewards, 
 Spendify simplifies the shopping journey by guiding users through the process of selecting the most beneficial credit card for their purchases. The tool provides real-time recommendations based on the user's spending habits and the available credit card offers.
 # Spendify - Credit Cards Score
 
-![Spendify UI](./Spendify.png)
+![Spendify UI](images//Spendify.png)
 
 ### Key Features
 
